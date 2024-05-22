@@ -6,5 +6,5 @@ Here we go!! 💖
 
 # Credits
 
-- Gleam's official website - ![gleam.run](https://gleam.run)
-- The Odin project for teaching me the basics 😊 - ![theodinproject.com](https://www.theodinproject.com)
+- Gleam's official website - [gleam.run](https://gleam.run)
+- The Odin project for teaching me the basics 😊 - [theodinproject.com](https://www.theodinproject.com)
